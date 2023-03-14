@@ -1,6 +1,6 @@
 # LÓGICA DE PROGRAMAÇÃO
 
-Abaixo, 10 exercícios que me ajudaram a praticar lógica de programação quando iniciei meus estudos em Programação.
+Abaixo, 11 exercícios que me ajudaram a praticar lógica de programação quando iniciei meus estudos em Programação.
 
 ## 📋 Exercícios
 
