@@ -44,15 +44,15 @@ o valor do novo salário.
 ```
 
 ```
-🟧 9) Ler três notas de um aluno, calcular e escrever a média final deste aluno, no final, informar se este aluno foi aprovado ou reprovado. (Considerar a média = 7)
+🟧 9) Ler três notas de um aluno, calcular e escrever a média final deste aluno, no final, 
+informar se este aluno foi aprovado ou reprovado. (Considerar a média = 7)
 ```
 
 ```
-🟥 10) Uma revendedora de carros usados paga a seus funcionários vendedores um salário fixo
-por mês, mais uma comissão também fixa para cada carro vendido e mais 5% do valor
-das vendas por ele efetuadas. Ler o número de carros por ele vendidos, o valor total de
-suas vendas, o salário fixo e o valor que ele recebe por carro vendido. Calcular e exibir o
-salário final do vendedor.
+🟥 10) Uma revendedora de carros usados paga a seus funcionários vendedores um salário fixo por mês, 
+mais uma comissão também fixa para cada carro vendido e mais 5% do valor das vendas por ele efetuadas. 
+Ler o número de carros por ele vendidos, o valor total de suas vendas, o salário fixo e o valor que ele recebe por carro vendido. 
+Calcular e exibir o salário final do vendedor.
 ```
 
 ```
