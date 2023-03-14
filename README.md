@@ -29,7 +29,7 @@ unitário da peça e quantidade vendida.
 
 ```
 🟨 6) Ler a idade de uma pessoa expressa em anos, meses e dias e exibir a idade dessa pessoa
-expressa apenas em dias. (Considere 1 ano = 365 dias) (Considere 1 mes = 30 dias)
+expressa apenas em dias. (Considere 1 ano = 365 dias) (Considere 1 mês = 30 dias)
 ```
 
 ```
