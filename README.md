@@ -69,5 +69,6 @@ Calcular e exibir o salário final do vendedor.
 ```
 
 ```
-🤯 Desafio Extra - Ler a quantidade de notas que um aluno irá receber e armazená-las e um array, em seguida receber as notas desse aluno e fazer a média das notas utilizando “For”.
+🤯 Desafio Extra - Ler a quantidade de notas que um aluno irá receber e armazená-las e um array, 
+em seguida receber as notas desse aluno e fazer a média das notas utilizando “For”.
 ```
