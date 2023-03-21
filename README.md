@@ -67,3 +67,7 @@ mais uma comissão também fixa para cada carro vendido e mais 5% do valor das v
 Ler o número de carros por ele vendidos, o valor total de suas vendas, o salário fixo e o valor que ele recebe por carro vendido. 
 Calcular e exibir o salário final do vendedor. 
 ```
+
+```
+🤯 Desafio Extra - Ler a quantidade de notas que um aluno irá receber e armazená-las e um array, em seguida receber as notas desse aluno e fazer a média das notas utilizando “For”.
+```
