@@ -14,8 +14,8 @@ Abaixo, 11 exercícios que me ajudaram a praticar lógica de programação quand
 ## 📋 Exercícios
 
 ```
-🟩 1) Ler a cotação do dólar e a quantidade de dólares do usuário. Em seguida converter para real e mostrar o
-resultado.
+🟩 1) Ler a cotação do dólar e a quantidade de dólares do usuário. 
+Em seguida converter para real e mostrar o resultado.
 ```
 
 ```
@@ -29,11 +29,13 @@ unitário da peça e quantidade vendida.
 ```
 
 ```
-🟨 4) Ler as dimensões de um retângulo (base e altura), calcular e escrever a área do retângulo.
+🟨 4) Ler as dimensões de um retângulo (base e altura), 
+calcular e escrever a área do retângulo.
 ```
 
 ```
-🟨 5) Ler a idade de uma pessoa em anos e exibir a idade dessa pessoa em dias (Considere 1 ano = 365 dias).
+🟨 5) Ler a idade de uma pessoa em anos e exibir a idade dessa pessoa em dias
+(Considere 1 ano = 365 dias).
 ```
 
 ```
@@ -64,7 +66,8 @@ informar se este aluno foi aprovado ou reprovado. (Considerar a média = 7)
 ```
 🟥 11) Uma revendedora de carros usados paga a seus funcionários vendedores um salário fixo por mês, 
 mais uma comissão também fixa para cada carro vendido e mais 5% do valor das vendas por ele efetuadas. 
-Ler o número de carros por ele vendidos, o valor total de suas vendas, o salário fixo e o valor que ele recebe por carro vendido. 
+Ler o número de carros por ele vendidos, o valor total de suas vendas, 
+o salário fixo e o valor que ele recebe por carro vendido. 
 Calcular e exibir o salário final do vendedor. 
 ```
 
