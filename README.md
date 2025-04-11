@@ -1,77 +1,68 @@
 # LÓGICA DE PROGRAMAÇÃO
 
-Abaixo, 11 exercícios que me ajudaram a praticar lógica de programação quando iniciei meus estudos em Programação.
+##  Nível de dificuldade
 
-##  Nível de dificuldade que tive na época
-
-🟩 - Não tive
-🟨 - Leve 
-🟧 - Tive trabalho
-🟥 - Bati cabeça!
+🟩 Fácil (lógica básica).
+🟨 Intermediário (estruturas de controle).
+🟧 Desafiador (algoritmos + manipulação de dados).
+🟥 Complexo (banco de dados + arquitetura).
 
 
 
 ## 📋 Exercícios
 
 ```
-🟩 1) Ler a cotação do dólar e a quantidade de dólares do usuário. 
-Em seguida converter para real e mostrar o resultado.
+🟩 Nível Fácil
+1- Conversor de Moeda: Ler a cotação do dólar e a quantidade de dólares. Converter para real e mostrar o resultado.
+2- Antecessor: Ler um valor inteiro e exibir seu antecessor.
+3- Área do Retângulo: Ler base e altura de um retângulo e calcular sua área.
+4- Idade em Dias: Ler idade em anos e converter para dias (1 ano = 365 dias).
+5- Calculadora de IMC: Ler peso (kg) e altura (m), calcular e exibir o IMC.
 ```
 
 ```
-🟩 2) Ler um valor inteiro e exibir seu antecessor.
+🟨 Nível Leve
+6- Idade Completa em Dias: Ler idade em anos, meses e dias, e converter tudo para dias.
+7- Comissão de Vendas: Calcular comissão de 5% sobre o total de vendas (peça × quantidade).
+8- Conversor de Celsius para Fahrenheit.
+9- Verificador de Número Primo: Identificar se um número é primo.
+10- Média Aritmética: Ler 3 notas e calcular a média (aprovado se ≥ 7).
 ```
 
 ```
-🟨 3) Calcular o pagamento de comissão de vendedores de peças, levando-se em consideração
-que sua comissão será de 5% do total da venda e que você tem os seguintes dados: preço
-unitário da peça e quantidade vendida. 
+🟧 Nível Moderado
+11- Percentual de Votos: Calcular percentual de votos brancos, nulos e válidos em uma eleição.
+12- Reajuste Salarial: Ler salário atual e percentual de reajuste, exibir novo salário.
+13- Fibonacci: Gerar sequência de Fibonacci até o N-ésimo termo.
+14- Validador de Senha: Verificar se a senha tem 8+ caracteres, maiúsculas, minúsculas e números.
+15- Ordenador de Lista: Ler 10 números e ordená-los manualmente (sem .sort()).
 ```
 
 ```
-🟨 4) Ler as dimensões de um retângulo (base e altura), 
-calcular e escrever a área do retângulo.
+🟥  Nível Desafiador
+16- Maior e Menor Valor: Ler 10 valores e exibir o maior e o menor.
+17- Salário de Vendedor: Calcular salário final (fixo + comissão por carro + 5% das vendas).
+18- Jogo da Adivinhação: Acertar um número aleatório em até 10 tentativas com dicas ("maior/menor").
+19- Média com Array: Ler quantidade de notas, armazenar em array e calcular a média usando for.
 ```
 
 ```
-🟨 5) Ler a idade de uma pessoa em anos e exibir a idade dessa pessoa em dias
-(Considere 1 ano = 365 dias).
-```
+🗃️ Desafios com Banco de Dados (CRUD)
+🟧 Nível Moderado
+Cadastro de Usuários:
+  --Criar tabela usuarios (id, nome, email, idade) em SQLite/MySQL.
+  --Implementar operações CRUD via terminal (inserir, listar, atualizar, deletar).
+Gerenciador de Tarefas:
+  --Tabela tarefas (id, título, descrição, status).
+  --Funcionalidades: adicionar, marcar como concluída, filtrar pendentes.
 
-```
-🟨 6) Ler a idade de uma pessoa expressa em anos, meses e dias e exibir a idade dessa pessoa
-expressa apenas em dias. (Considere 1 ano = 365 dias) (Considere 1 mês = 30 dias)
-```
-
-```
-🟧 7) Ler o número total de eleitores de um município, o número de votos brancos, nulos e
-válidos. Calcular e escrever o percentual que cada um representa em relação ao total de
-eleitores.
-```
-
-```
-🟧 8) Ler o salário mensal atual de um funcionário e o percentual de reajuste. Calcular e exibir
-o valor do novo salário.
-```
-
-```
-🟧 9) Ler três notas de um aluno, calcular e escrever a média final deste aluno, no final, 
-informar se este aluno foi aprovado ou reprovado. (Considerar a média = 7)
-```
-
-```
-🟥 10) Ler 10 valores e no final, escrever o maior e o menor valor lido.
-```
-
-```
-🟥 11) Uma revendedora de carros usados paga a seus funcionários vendedores um salário fixo por mês, 
-mais uma comissão também fixa para cada carro vendido e mais 5% do valor das vendas por ele efetuadas. 
-Ler o número de carros por ele vendidos, o valor total de suas vendas, 
-o salário fixo e o valor que ele recebe por carro vendido. 
-Calcular e exibir o salário final do vendedor. 
-```
-
-```
-🤯 Desafio Extra - Ler a quantidade de notas que um aluno irá receber e armazená-las e um array, 
-em seguida receber as notas desse aluno e fazer a média das notas utilizando “For”.
+🟥 Nível Complexo
+API REST Simples:
+-Criar API (Node/Express ou Python/Flask) que:
+  --Retorna lista de usuários em JSON.
+  --Aceita POST para cadastrar novos usuários.
+  --(Opcional) Implementa PUT e DELETE.
+Sistema de Login:
+  --Tabela usuarios com senhas criptografadas.
+  --Validar login (usuário + senha) e retornar mensagem de sucesso/erro.
 ```
